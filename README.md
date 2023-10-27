@@ -1,5 +1,5 @@
 
-[embed]https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf [/embed]
+<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a>
 
 Traditional network planning relies on Compound Annual Growth Rate (CAGR). However, applying the same growth estimate across the entire network is not always accurate due to various factors such as economic, social, or demographic reasons. For example, a community with a nearby university is expected to have a different traffic behaviour during the school year compared to the summer, and a community that hosts major sports franchises exhibits higher traffic depending on regular and post-season performance.
 
