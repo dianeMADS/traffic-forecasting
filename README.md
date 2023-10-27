@@ -1,3 +1,6 @@
+
+[embed]https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf[/embed]
+
 Traditional network planning relies on Compound Annual Growth Rate (CAGR). However, applying the same growth estimate across the entire network is not always accurate due to various factors such as economic, social, or demographic reasons. For example, a community with a nearby university is expected to have a different traffic behaviour during the school year compared to the summer, and a community that hosts major sports franchises exhibits higher traffic depending on regular and post-season performance.
 
 Incorrect growth estimates can result in premature investments at different locations. Also, one can miss important network burst patterns based on high profile events such as smart phone updates, major video game releases or live global sporting events (e.g. the 2022 FIFA World Cup). Attempts were made to address these shortcomings by splitting the network into smaller chunks, and then manually analyzing growth expectations. The granularity and manual labor required to produce useful results made this approach unworkable as you scale the analysis. A new method is required for better traffic forecasting that will allow for targeted and timely spending.
