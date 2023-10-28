@@ -6,6 +6,6 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a>
 
-<a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a>
+[Publication](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
 
 
