@@ -8,5 +8,4 @@ This paper proposes a traffic forecasting approach that shows how Machine Learni
 
 <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_paper.pdf">Publication</a>
 
-[Codes](https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/ML_traffic_forecasting.ipynb)
 
