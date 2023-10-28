@@ -4,8 +4,7 @@ Incorrect growth estimates can result in premature investments at different loca
 
 This paper proposes a traffic forecasting approach that shows how Machine Learning (ML) can be used to automate iterative calculations and model attributes such as trends and seasonality, failure events along with subsequent interactions between the primary and failover links, and network burst patterns. Our predictive models have the computational power to scale the analysis of the multiple variables and high granularity. This proposal is a powerful and repeatable capacity-planning strategy that enables targeted network augmentation and spending.
 
+[D.P. Onguetou, A. Maddumabandara, J. Lee, Leveraging Machine Learning for Network Traffic Forecasting, Society of Cable Telecommunications Engineers (SCTE) Technical Forum, Fall 2023.](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
+
 <a href="https://github.com/dianeMADS/traffic-forecasting/blob/main/assets/3580_DPO_5100_presentation.pdf">Presentation</a>
-
-[Publication](https://www.nctatechnicalpapers.com/Paper/2023/3580_Lee_5100_paper)
-
 
